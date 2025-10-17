@@ -13,7 +13,10 @@
 - AI Development in Generative AI, Computer Vision, and Traditional ML Algorithms
 - Client-facing Sales Engineering roles that bridge technical and business skills to build scalable and secure AI solutions
 
-Ask me about AWS services, cloud solutions architecture, or AI innovations! Let's connect and create impactful technology together.
+📚 Academic Portfolio:
+A collection of projects in Deep Learning, Data Science, and Applied Machine Learning available upon request – developed through rigorous coursework using university-maintained systems.
+
+Ask me about AWS services, cloud solutions architecture, or AI innovations! Let's connect and create impactful technology together. 
 
 
 ## 🌐 Socials:
